@@ -1,27 +1,31 @@
-# 👋 Hi, I'm BowTiedFrogs
+# BowTiedFrogs
 
-## 🚀 About Me
-I'm an aspiring full-stack developer, currently honing my skills through The Odin Project. My goal is to launch my own SaaS product in the near future.
+## About Me
+I am an aspiring full-stack developer currently enhancing my skills through The Odin Project curriculum. My focus is on building a strong foundation in web development technologies with the goal of launching a Software as a Service (SaaS) product in the future.
 
-## 🛠 Skills
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## Skills
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Git & GitHub
 
-## 🔭 Current Projects
-- 🌟 [odin-rock-paper-scissors](https://github.com/BowTiedFrogs/odin-rock-paper-scissors) - A simple game built with JavaScript
-- 🎨 [odin-landing-page](https://github.com/BowTiedFrogs/odin-landing-page) - Responsive landing page design
+## Current Projects
+1. **odin-rock-paper-scissors**: A JavaScript implementation of the classic game, demonstrating DOM manipulation and basic game logic.
+2. **odin-landing-page**: A responsive landing page design, showcasing HTML and CSS skills.
+3. **odin-project-public**: A collection of exercises and small projects from The Odin Project curriculum.
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BowTiedFrogs&show_icons=true&theme=radical)
+## Goals
+- Complete The Odin Project full-stack JavaScript path
+- Develop and launch a minimum viable product (MVP) for a SaaS application
+- Contribute to open-source projects to gain collaborative development experience
 
-## 🌐 Connect with me
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/BowTiedFrogs)
+## GitHub Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BowTiedFrogs&show_icons=true&theme=default)
 
-## 🎯 Goals for 2024
-- Complete The Odin Project curriculum
-- Launch my first SaaS product
-- Contribute to open-source projects
+## Contact
+- GitHub: [@BowTiedFrogs](https://github.com/BowTiedFrogs)
+- Twitter: [@BowTiedFrogs](https://twitter.com/BowTiedFrogs)
 
 ---
-⭐️ From [BowTiedFrogs](https://github.com/BowTiedFrogs)
+
+I am open to collaboration and always eager to learn from fellow developers. Feel free to reach out if you'd like to discuss potential projects or share knowledge.
