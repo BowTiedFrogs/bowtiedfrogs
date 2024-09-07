@@ -15,22 +15,20 @@ I am an ambitious full-stack developer in the making, currently honing my skills
 3. [odin-project-public](https://github.com/BowTiedFrogs/odin-project-public): A collection of exercises and small projects from The Odin Project curriculum.
 
 ## Learning Journey
+- 🌱 Currently learning: JavaScript Foundations through The Odin Project
+- 📚 Next on my list: 
+  1. Advanced JavaScript concepts
+  2. React.js
+  3. Node.js
+- 💡 Long-term goal: Full-stack proficiency for SaaS development
 
-🌱 Currently learning: JavaScript Foundations through The Odin Project
-📚 Next on my list:
-
-Advanced JavaScript concepts
-React.js
-Node.js
-
-💡 Long-term goal: Full-stack proficiency for SaaS development
 ## Goals
 - Complete The Odin Project full-stack JavaScript path
 - Develop and launch a minimum viable product (MVP) for a SaaS application
+- Contribute to open-source projects to gain collaborative development experience
 
 ## GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BowTiedFrogs&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=BowTiedFrogs&layout=compact&theme=dark)
 
 ## Connect with Me
 - GitHub: [@BowTiedFrogs](https://github.com/BowTiedFrogs)
